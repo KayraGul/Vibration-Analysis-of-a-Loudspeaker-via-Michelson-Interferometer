@@ -8,7 +8,8 @@ This project presents an experimental study on detecting and analyzing **mechani
 
 Watch the live **demonstration video** of the setup and results:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KqWnFWd6NJk" title="Project Demonstration Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Michelson Interferometer Vibration Analysis – Demonstration Video](https://img.youtube.com/vi/KqWnFWd6NJk/0.jpg)](https://www.youtube.com/watch?v=KqWnFWd6NJk)
+
 
 [👉 Open on YouTube](https://youtu.be/KqWnFWd6NJk)
 
